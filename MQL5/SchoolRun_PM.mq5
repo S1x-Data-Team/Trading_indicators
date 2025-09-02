@@ -1,3 +1,5 @@
+// This indicator draws horizontal lines at the top and bottom of the 2nd 15 minute bar that forms part of Tom Hougaards the School Run strategy for the afternoon (USA) session. for mt5 software
+
 #property indicator_chart_window
 #property strict
 
