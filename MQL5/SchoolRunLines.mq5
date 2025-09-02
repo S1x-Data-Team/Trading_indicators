@@ -1,4 +1,4 @@
-//Draws lines on the 15 min signal bar as part of Tom Hougaards School Run Strategy 
+//Draws lines on the 2nd 15 min signal bar as part of Tom Hougaards School Run Strategy 
 
 #property indicator_chart_window
 #property strict
