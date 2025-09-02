@@ -17,3 +17,11 @@ Can extend lines to end-of-day or ray infinitely to the right
 Clean up their objects when the indicator is removed
 
 Support multiple instances via an InstanceTag suffix
+
+
+
+Notes on time
+
+Server time may differ from your local time. Always set TargetHourServer/TargetMinuteServer according to the broker’s server clock.
+
+Indicators anchor to iTime(_Symbol, PERIOD_D1, shift) to detect each server day reliably.
