@@ -1,4 +1,4 @@
-// This indicvator draws horizontal lines at the top and bottom of the 2nd 15 minute bar tyhat forms part of the School run strategy 
+// This indicator draws horizontal lines at the top and bottom of the 2nd 15 minute bar that forms part of Tom Hougaards the School Run strategy for mt5
 
 #property indicator_chart_window
 #property strict
